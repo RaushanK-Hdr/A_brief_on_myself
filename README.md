@@ -1,6 +1,6 @@
 # A brief on myself
 
-    I am Raushan Kumar, recently completed my BTech Degree in Electrical Engineering at NIT Surat. I have 
+    I am Raushan Kumar, recently completed my B.Tech Degree in Electrical Engineering at NIT Surat. I have 
     been working on the verification of ML/DL Accelerators as part of my Research Internship at IIT Jodhpur 
     and have hands-on experience in developing VIPs and assessing functional coverage to ensure design 
     correctness. I have Sophisticated knowledge of Verilog, SystemVerilog, UVM and experience in deployment 
@@ -11,6 +11,7 @@
 
     That being said, I am looking for the job opportunity specific to CPU/GPUs, ASIC, SoC, AI/ML Accelerator 
     Design Verification Full - time roles.
+
 
 Please refer to the attached resume to understand more about my background.
 [Raushan_Kumar_Resume.pdf](https://github.com/user-attachments/files/21694373/Raushan_Kumar_Resume.pdf)
