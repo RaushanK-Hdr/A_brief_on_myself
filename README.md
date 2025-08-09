@@ -1,4 +1,5 @@
 #A brief on myself
+
     I am Raushan Kumar, recently completed my BTech Degree in Electrical Engineering at NIT Surat. I have 
     been working on the verification of ML/DL Accelerators as part of my Research Internship at IIT Jodhpur 
     and have hands-on experience in developing VIPs and assessing functional coverage to ensure design 
