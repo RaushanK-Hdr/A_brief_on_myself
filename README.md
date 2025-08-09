@@ -13,6 +13,7 @@
     Design Verification Full - time roles.
 
 
+
 Please refer to the attached resume to understand more about my background.
 [Raushan_Kumar_Resume.pdf](https://github.com/user-attachments/files/21694373/Raushan_Kumar_Resume.pdf)
 
