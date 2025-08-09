@@ -12,5 +12,6 @@
     That being said, I am looking for the job opportunity specific to CPU/GPUs, ASIC, SoC, AI/ML Accelerator 
     Design or Verification Full - time roles.
 
-please refer to the attached resume to understand more about my background.
-<img width="1700" height="2200" alt="Raushan_Kumar_Resume" src="https://github.com/user-attachments/assets/cbc4bf45-6282-4414-8c1d-60b2e45d8894" />
+Please refer to the attached resume to understand more about my background.
+[Raushan_Kumar_Resume.pdf](https://github.com/user-attachments/files/21694373/Raushan_Kumar_Resume.pdf)
+
