@@ -10,8 +10,8 @@
     AMBA(AXI4, AHB3, APB3), UART.
 
     That being said, I am looking for the job opportunity specific to CPU/GPUs, ASIC, SoC, AI/ML Accelerator 
-    Design Verification Full - time roles.
-
+    Design Verification Full - time roles.  
+    
 
 
 Please refer to the attached resume to understand more about my background.
